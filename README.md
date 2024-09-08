@@ -1,38 +1,52 @@
-# ASHO DEKHI - Movie Ticket Booking Website
+# 🎟️ BookMyShowtime - Movie Ticket Booking Website
 
-Welcome to ASHO DEKHI, your one-stop destination for booking movie tickets online. This repository contains the codebase for the ASHO DEKHI website, built using React, Express, MySQL, and Node.js.
+Welcome to **BookMyShowtime**, your ultimate destination for booking movie tickets online. Experience seamless movie browsing, showtime checking, and ticket booking, all from the comfort of your home.
 
-### 🚀 VISIT LIVE DEMO _[HERE](https://asho-dekhi.vercel.app/)_
+This repository contains the codebase for **BookMyShowtime**, built with cutting-edge technologies like **React**, **Express**, **MySQL**, and **Node.js**.
 
-**N.B.: Since this is a test application 🛠️, purchasing tickets won't cost you any real money 💰. So, don't forget to buy tickets 😎.
-_Backend/API is hosted at render.com on free tier. So, it goes inactive after 15 minutes of inactivity. So, if you see something loading, please wait for 15-30 seconds😉._**
+### 🚀 [LIVE DEMO](https://asho-dekhi.vercel.app/) 🚀
 
-## Features 🛠️
+**N.B.:** This is a test application 🛠️, so purchasing tickets won't cost you any real money 💰. 
+_Backend/API is hosted on a free Render tier. If it goes inactive after 15 minutes of inactivity, please wait for 15-30 seconds for it to wake up 😉._
 
-- 🎬 Browse and Filter Movies
+---
 
-- 🎥 View Movie Details
+## 🌟 Key Features
 
-- 🕒 Check Showtimes
+- 🎬 **Browse and Filter Movies:** Search through a list of movies by genres, languages, and ratings.
+- 🎥 **View Detailed Information:** Check movie descriptions, trailers, casts, and more.
+- 🕒 **Showtime Listings:** View available showtimes for your favorite movies.
+- 🎫 **Book Tickets Seamlessly:** Select your seats and book tickets instantly.
+- 🔐 **User Authentication:** Sign up, log in, and manage your bookings.
+- 📚 **User Purchase History:** Review your past movie bookings.
+- 🛠️ **Admin Panel:** Manage movie listings, showtimes, and more as an admin.
+- 📱 **Responsive UI:** Enjoy a smooth experience across devices with our fully responsive design.
 
-- 🎫 Book Tickets
+---
 
-- 🔐 User Authentication and Registration
+## 🎨 Sneak Peek
 
-- 📚 User Purchase History
+Here’s a quick look at **BookMyShowtime** in action:
 
-- 🛠 Admin Panel
+| ![Browse Movies](/demo/Purchase1.png) | ![Select Seats](/demo/Purchase2.png) |
+|----------------------------------------|---------------------------------------|
 
-- 📱 Fully Responsive User-friendly UI
+---
 
-## Sneak Peek 👀
+## 🛠 Tech Stack
 
-![Payment](/demo/Purchase1.png)![Payment](/demo/Purchase2.png)
+- **Client (Front-End):** React, CSS
+- **Server (Back-End/API):** Node.js, Express
+- **Database:** MySQL
 
-## Tech Stack💻
+---
 
-**Client/Front-End:** React, CSS
+## 🧑‍💻 Authors
 
-**Server/BackEnd/API:** Node, Express
+- [Pinak Gupta](https://github.com/PinakGupta)
+- [Rishabh Mittal](https://github.com/therishabhmittal-05)
+- [Mehak Singla](https://github.com/mehaksingla2005)
 
-**Database:** MySQL
+---
+
+We hope you enjoy using **BookMyShowtime**! Feel free to explore, contribute, or reach out with feedback. Happy booking! 🎉
