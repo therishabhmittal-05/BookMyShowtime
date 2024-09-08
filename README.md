@@ -4,19 +4,19 @@ Welcome to **BookMyShowtime**, your ultimate destination for booking movie ticke
 
 This repository contains the codebase for **BookMyShowtime**, built with cutting-edge technologies like **React**, **Express**, **MySQL**, and **Node.js**.
 
-### 🚀 [LIVE DEMO](https://asho-dekhi.vercel.app/) 🚀
+### 🚀[LIVE DEMO](https://asho-dekhi.vercel.app/) 🚀
 
 **N.B.:** This is a test application 🛠️, so purchasing tickets won't cost you any real money 💰. 
 _Backend/API is hosted on a free Render tier. If it goes inactive after 15 minutes of inactivity, please wait for 15-30 seconds for it to wake up 😉._
 
 ---
 
-## 🌟 Key Features
+## 🌟  Key Features
 
 - 🎬 **Browse and Filter Movies:** Search through a list of movies by genres, languages, and ratings.
 - 🎥 **View Detailed Information:** Check movie descriptions, trailers, casts, and more.
 - 🕒 **Showtime Listings:** View available showtimes for your favorite movies.
-- 🎫 **Book Tickets Seamlessly:** Select your seats and book tickets instantly.
+- 🎫 **Book Tickets Seamlessly:**  Select your seats and book tickets instantly.
 - 🔐 **User Authentication:** Sign up, log in, and manage your bookings.
 - 📚 **User Purchase History:** Review your past movie bookings.
 - 🛠️ **Admin Panel:** Manage movie listings, showtimes, and more as an admin.
